@@ -5,12 +5,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CSS Extended Completions",
 		"Emmet",
 		"Git",
+		"JsFormat",
+		"LESS",
 		"Package Control",
 		"RailsCasts Colour Scheme",
-		"Sass",
-		"SublimeERB",
-		"SyncedSideBar"
+		"SublimeLinter",
+		"SublimeTmpl"
 	]
 }
